@@ -8,9 +8,13 @@
 
 回复 **mypy** 下载完整案例的 PDF.  
 
-<img src="img/Python小例子.jpg" width="20%"/>
+<br>
 
+<div align="center">
+    <img src="img/Python小例子.jpg" width="40%"/>
+</div>
 
+<br>
 
 如果转载本库小例子、小案例，请备注下方链接：
 
