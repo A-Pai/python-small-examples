@@ -1,26 +1,6 @@
 ## 📚 介绍
 
-告别枯燥，告别枯燥，致力于打造 Python 经典小例子、小案例。 
-
-当前库已有 **300** 多个实用的小例子、小案例 。
-
-扫码关注此库的官方公众号： **Python小例子** 
-
-回复 **mypy** 下载完整案例的 PDF.  
-
-<br>
-
-<div align="center">
-    <img src="img/Python小例子.jpg" width="28%"/>
-</div>
-
-<br>
-
-如果转载本库小例子、小案例，请备注下方链接：
-
-Python小例子 https://github.com/jackzhenguo/python-small-examples
-
-
+告别枯燥，告别枯燥，致力于打造 Python 经典小例子、小案例。 当前库已有 **300** 多个实用的小例子、小案例 。
 
 ## 🤝 贡献
 
@@ -32,9 +12,11 @@ Python小例子 https://github.com/jackzhenguo/python-small-examples
 
 允许按照要求转载，但禁止用于任何商用目的！
 
+如果转载本库小例子、小案例，请备注下方链接：
 
+Python小例子 https://github.com/jackzhenguo/python-small-examples
 
-## 🔨 迭代第二版
+## 🔨 第二版迭代中
 
 现在正在按照如下施工计划，迭代此库，欢迎持续关注。
 
@@ -128,6 +110,34 @@ Python小例子 https://github.com/jackzhenguo/python-small-examples
 
 ![](./img/image-20200624094538105.png)
 
-以上就是《Python-small-examples》github 库的施工和整理计划，素材都有一定积累，需要的是不断打磨，耐心整理，争取今年全部施工完成。如果你有好的例子欢迎直接提交到此库：
+以上就是《Python-small-examples》github 库的施工和整理计划，素材都有一定积累，需要的是不断打磨，耐心整理，争取今年全部施工完成。
+
+如果你有好的例子欢迎直接提交到此库：
 
 https://github.com/jackzhenguo/python-small-examples
+
+
+目前已完成部分，目录：
+
+1. [Python基础](./Python基础/Python基础.md)
+2. [Python进阶](./Python进阶/Python进阶.md)
+3. [Python绘图](./Python绘图/Python绘图.md)
+4. [Python坑点](./Python坑点/Python坑点.md)
+5. [算法刷题](./算法刷题/算法刷题.md)
+6. [机器学习](./机器学习/机器学习入门前.md)
+7. [数据分析](./数据分析/数据分析.md)
+8. [Web开发](./Web开发/Web开发.md)
+
+
+
+扫码关注此库的官方公众号： **Python小例子** 
+
+回复 **mypy** 下载完整案例的 PDF.  
+
+<br>
+
+<div align="center">
+    <img src="img/Python小例子.jpg" width="28%"/>
+</div>
+
+<br>
