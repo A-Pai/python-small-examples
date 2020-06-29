@@ -13,38 +13,50 @@
 
 <br>
 
-## 📚 介绍
+## 📚 项目介绍
 
 告别枯燥，告别枯燥，致力于打造 Python 经典小例子、小案例。 当前库已有 **300** 多个实用的小例子、小案例 。
 
-## 🤝 贡献
-
 欢迎贡献小例子，修改已有 bug，参考  [贡献方法](./contributing.md) 
 
-
-## ✅ License
-
-允许按照要求转载，但禁止用于任何商用目的！
+本库不是资料的简单整理，都是个人原创的案例。若转载请按照要求，禁止用于任何商用目的。
 
 如果转载本库小例子、小案例，请备注下方链接：
 
 Python小例子 https://github.com/jackzhenguo/python-small-examples
 
-## 第一版已完成
+## 项目V1已完工
 
-目前已完成第一版，目录：
+目前已完成第一版，目录如下：
+
+### Python 
 
 - [Python基础](./Python基础/Python基础.md)
-- [Python进阶](./Python进阶/Python进阶.md)
-- [Python绘图](./Python绘图/Python绘图.md)
+
+-  [Python进阶](./Python进阶/Python进阶.md)
+
+-  [Python绘图](./Python绘图/Python绘图.md)
+
 - [Python坑点](./Python坑点/Python坑点.md)
-- [算法刷题](./算法刷题/算法刷题.md)
+
+### 算法刷题
+
+-  [算法刷题](./算法刷题/算法刷题.md)
+
+### 机器学习
+
 - [机器学习](./机器学习/机器学习入门前.md)
+
+### 数据分析
+
 - [数据分析](./数据分析/数据分析.md)
+
+### Web 开发
+
 - [Web开发](./Web开发/Web开发.md)
 
 
-## 🔨 第二版迭代中
+## 🔨 V2 迭代开发中
 
 现在正在按照如下施工计划，迭代此库，欢迎持续关注。
 
@@ -52,9 +64,9 @@ Python小例子 https://github.com/jackzhenguo/python-small-examples
 
 主要章节和小节重新按照如下逻辑划分：
 
-- 一、Python基础
+一、Python基础
 
-- - 1 数字
+  - 1 数字
   - 2 字符串
   - 3 列表
   - 4 流程控制
