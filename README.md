@@ -29,32 +29,40 @@ Python小例子 https://github.com/jackzhenguo/python-small-examples
 
 目前已完成第一版，目录如下：
 
-### Python 
+### :pencil2: Python 基础 
 
 - [Python基础](./Python基础/Python基础.md)
 
+### :computer: Python 进阶
+
 -  [Python进阶](./Python进阶/Python进阶.md)
+
+### :cloud: Python 绘图
 
 -  [Python绘图](./Python绘图/Python绘图.md)
 
+### :art: Python 坑点
+
 - [Python坑点](./Python坑点/Python坑点.md)
 
-### 算法刷题
+### :floppy_disk: 算法刷题
 
 -  [算法刷题](./算法刷题/算法刷题.md)
 
-### 机器学习
+### :coffee: 机器学习
 
 - [机器学习](./机器学习/机器学习入门前.md)
 
-### 数据分析
+### :bulb: 数据分析
 
 - [数据分析](./数据分析/数据分析.md)
 
-### Web 开发
+### :wrench: Web 开发
 
 - [Web开发](./Web开发/Web开发.md)
 
+<br>
+<br>
 
 ## 🔨 V2 迭代开发中
 
