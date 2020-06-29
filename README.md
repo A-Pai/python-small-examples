@@ -1,3 +1,18 @@
+<div align="center">
+<img src="https://img.shields.io/badge/%E6%8E%92%E5%90%8D-98-brightgreen">
+<img src="https://img.shields.io/badge/Python-%E5%B0%8F%E4%BE%8B%E5%AD%90-brightgreen">
+<img src="https://img.shields.io/badge/Python-%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90-blue">
+<img src="https://img.shields.io/badge/Python-%E7%AE%97%E6%B3%95-orange">
+<img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-Python%E5%B0%8F%E4%BE%8B%E5%AD%90-green">
+</div>
+<br>
+
+| &nbsp;Python基础&nbsp; | Python进阶 | &nbsp;Python绘图&nbsp;|Python坑点| 算法刷题|机器学习|         数据分析|Web开发|
+| :---: | :----: | :---: | :----: | :----: | :----: | :----: | :----: |
+| [:pencil2:](./Python基础/Python基础.md) | [:computer:](./Python进阶/Python进阶.md) | [:cloud:](./Python绘图/Python绘图.md) | [:art:](./Python坑点/Python坑点.md) | [:floppy_disk:](./算法刷题/算法刷题.md) |[:coffee:](./机器学习/机器学习入门前.md)| [:bulb:](./数据分析/数据分析.md) |[:wrench:](./Web开发/Web开发.md)|
+
+<br>
+
 ## 📚 介绍
 
 告别枯燥，告别枯燥，致力于打造 Python 经典小例子、小案例。 当前库已有 **300** 多个实用的小例子、小案例 。
@@ -7,7 +22,6 @@
 欢迎贡献小例子，修改已有 bug，参考  [贡献方法](./contributing.md) 
 
 
-
 ## ✅ License
 
 允许按照要求转载，但禁止用于任何商用目的！
@@ -15,6 +29,20 @@
 如果转载本库小例子、小案例，请备注下方链接：
 
 Python小例子 https://github.com/jackzhenguo/python-small-examples
+
+## 第一版已完成
+
+目前已完成第一版，目录：
+
+- [Python基础](./Python基础/Python基础.md)
+- [Python进阶](./Python进阶/Python进阶.md)
+- [Python绘图](./Python绘图/Python绘图.md)
+- [Python坑点](./Python坑点/Python坑点.md)
+- [算法刷题](./算法刷题/算法刷题.md)
+- [机器学习](./机器学习/机器学习入门前.md)
+- [数据分析](./数据分析/数据分析.md)
+- [Web开发](./Web开发/Web开发.md)
+
 
 ## 🔨 第二版迭代中
 
@@ -115,19 +143,6 @@ Python小例子 https://github.com/jackzhenguo/python-small-examples
 如果你有好的例子欢迎直接提交到此库：
 
 https://github.com/jackzhenguo/python-small-examples
-
-
-目前已完成部分，目录：
-
-1. [Python基础](./Python基础/Python基础.md)
-2. [Python进阶](./Python进阶/Python进阶.md)
-3. [Python绘图](./Python绘图/Python绘图.md)
-4. [Python坑点](./Python坑点/Python坑点.md)
-5. [算法刷题](./算法刷题/算法刷题.md)
-6. [机器学习](./机器学习/机器学习入门前.md)
-7. [数据分析](./数据分析/数据分析.md)
-8. [Web开发](./Web开发/Web开发.md)
-
 
 
 扫码关注此库的官方公众号： **Python小例子** 
